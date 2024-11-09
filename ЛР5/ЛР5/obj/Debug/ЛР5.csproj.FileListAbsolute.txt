@@ -1,0 +1,7 @@
+C:\Users\Юра будет дуть\source\repos\ЛР5\ЛР5\bin\Debug\ЛР5.exe.config
+C:\Users\Юра будет дуть\source\repos\ЛР5\ЛР5\bin\Debug\ЛР5.exe
+C:\Users\Юра будет дуть\source\repos\ЛР5\ЛР5\bin\Debug\ЛР5.pdb
+C:\Users\Юра будет дуть\source\repos\ЛР5\ЛР5\obj\Debug\ЛР5.csproj.AssemblyReference.cache
+C:\Users\Юра будет дуть\source\repos\ЛР5\ЛР5\obj\Debug\ЛР5.csproj.CoreCompileInputs.cache
+C:\Users\Юра будет дуть\source\repos\ЛР5\ЛР5\obj\Debug\ЛР5.exe
+C:\Users\Юра будет дуть\source\repos\ЛР5\ЛР5\obj\Debug\ЛР5.pdb
